@@ -17,9 +17,6 @@ Data which is used is combined(across the years and states) and is largely a cle
 ### About Air Quality Measurements
 Sulphur Dioxide (SO2) and Nitrogen dioxide (NO2) are one of the most dangerous outdoor air pollutants. Outdoor NO2 exposure may increase the risk of respirator tract infections through the pollutant's interaction with the immune system. SO2 contributes to respiratory symptoms in both healthy patients and those with underlying pulmonary disease.<br>
 Respirable Suspended Particulate Matters (RSPM) and Suspended Particulate Matter (SPM) are produced from combustion processes, vehicles and industrial sources.
-
-<h4> 📍Link for Dashboard: https://public.tableau.com/app/profile/mansi.tyagi1056/viz/AirQuality_17072855981830/Dashboard1?publish=yes</h4>
-
 ### ✅Analysis of air pollution data from 1986 to 2003 reveals several key insights:
 
 **Industrial activity:** Industries were identified as the primary source of nitrogen dioxide (NO2) and sulfur dioxide (SO2) emissions.<br>
